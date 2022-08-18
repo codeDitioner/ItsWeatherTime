@@ -1,2 +1,3 @@
 # ItsWeatherTime
-Weather Notification Bot
+Weather Notification Bot for Reddit.
+Deployed on Google Cloud.
